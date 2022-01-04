@@ -1,5 +1,5 @@
 public class Zadanie {
     public static void main(String[] args) {
-        System.out.println("Домашнее задание");
+        System.out.println("Задание провалено");
     }
 }
